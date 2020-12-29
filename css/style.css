@@ -50,6 +50,10 @@ body {
     padding: 1em;
 }
 
+#post img{
+    width: 100%;
+}
+
 #footer 
 {
     background: #777;
